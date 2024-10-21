@@ -9,5 +9,5 @@ Get ready as this Excel project will challenge your data preprocessing skills, a
 
 The Manufacturer Performance in the Baby Care Market Excel project is suitable for intermediate and advanced students. It is highly recommended to complete our Introduction to Excel and Data Analysis with Excel Pivot Tables courses before attempting this project.
 
-#Project requirements
+# Project requirements
 Introduction to Excel, Data Analysis with Excel Pivot Tables
